@@ -12,3 +12,17 @@ Hit up
 And off ye go ! 
 
 `glhf`
+
+## Hings I took away from this jaunt
+
+### Converting input values to other type
+
+```rust
+let mut value_i_want = String::new();
+
+let value_i_want: u32 = input.trim()
+    .parse()
+    .expect("Haul, geez a number!");
+```
+
+That's not a typo - you can literally set a variable like this
