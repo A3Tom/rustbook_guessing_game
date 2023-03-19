@@ -1,5 +1,5 @@
 # Guessing Game
-_Part 1 of 3 of the [Rust Programming Book](https://doc.rust-lang.org/book/c)_
+_Part 1 of 3 of the [Rust Programming Book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)_
 
 Aight so apart from being an absolute banger of a novel, this book also has 3 programming follow along sections.
 This is the first of three, a cli guessing game
